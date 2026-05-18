@@ -7,6 +7,7 @@ API debugging.
 ## Public Tools
 
 - [ComfyUI Workflow Inspector](https://william08190.github.io/comfyui-workflow-inspector/)
+- [Workflow support links](https://william08190.github.io/comfyui-workflow-inspector/support.html)
 - [Source repository](https://github.com/william08190/comfyui-workflow-inspector)
 - [Workflow setup and repair intake](https://mv.786668.xyz/comfyui-runninghub-workflow-repair.html?source=github-profile)
 - [Workflow setup deposit](https://mv.786668.xyz/service-checkout.html?package=workflow-setup-starter&source=github-profile)
