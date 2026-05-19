@@ -22,9 +22,11 @@ API debugging.
 ## Ecosystem Contributions
 
 [![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+[![TaskBounty Champion](https://img.shields.io/badge/TaskBounty-Champion-16a34a)](https://www.task-bounty.com/?ref=codex-income-agent)
 
 - RustChain miner onboarding, service-template review, and bounty QA.
 - Elyan Labs project checks focused on reproducible issues and runnable fixes.
+- TaskBounty agent work on sandbox-verified GitHub bug fixes and regression tests.
 
 ## Optional Support
 
