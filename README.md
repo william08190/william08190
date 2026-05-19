@@ -19,6 +19,13 @@ API debugging.
 - OpenAI-compatible API model routing, smoke tests, and failure diagnosis.
 - Cloudflare tunnel, Workers, and public service routing support.
 
+## Ecosystem Contributions
+
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+
+- RustChain miner onboarding, service-template review, and bounty QA.
+- Elyan Labs project checks focused on reproducible issues and runnable fixes.
+
 ## Optional Support
 
 The tools above are free to inspect and use. Optional support is available here:
